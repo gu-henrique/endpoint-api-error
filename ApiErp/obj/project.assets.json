@@ -461,26 +461,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gustavo Santana\\.nuget\\packages\\": {}
+    "C:\\Users\\gustavo.santana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo Santana\\Desktop\\teste-endpoint\\endpoint-api-error\\ApiErp\\ApiErp.csproj",
+      "projectUniqueName": "C:\\Users\\gustavo.santana\\Desktop\\Endpoint ERP\\endpoint-api-error\\ApiErp\\ApiErp.csproj",
       "projectName": "ApiErp",
-      "projectPath": "C:\\Users\\Gustavo Santana\\Desktop\\teste-endpoint\\endpoint-api-error\\ApiErp\\ApiErp.csproj",
-      "packagesPath": "C:\\Users\\Gustavo Santana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo Santana\\Desktop\\teste-endpoint\\endpoint-api-error\\ApiErp\\obj\\",
+      "projectPath": "C:\\Users\\gustavo.santana\\Desktop\\Endpoint ERP\\endpoint-api-error\\ApiErp\\ApiErp.csproj",
+      "packagesPath": "C:\\Users\\gustavo.santana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gustavo.santana\\Desktop\\Endpoint ERP\\endpoint-api-error\\ApiErp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gustavo Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gustavo.santana\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

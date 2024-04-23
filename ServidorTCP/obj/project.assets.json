@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo Santana\\Desktop\\teste-endpoint\\endpoint-api-error\\endpoint-api-error.csproj",
-      "projectName": "endpoint-api-error",
-      "projectPath": "C:\\Users\\Gustavo Santana\\Desktop\\teste-endpoint\\endpoint-api-error\\endpoint-api-error.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo Santana\\Desktop\\teste-endpoint\\endpoint-api-error\\ServidorTCP\\ServidorTCP.csproj",
+      "projectName": "ServidorTCP",
+      "projectPath": "C:\\Users\\Gustavo Santana\\Desktop\\teste-endpoint\\endpoint-api-error\\ServidorTCP\\ServidorTCP.csproj",
       "packagesPath": "C:\\Users\\Gustavo Santana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo Santana\\Desktop\\teste-endpoint\\endpoint-api-error\\obj\\",
+      "outputPath": "C:\\Users\\Gustavo Santana\\Desktop\\teste-endpoint\\endpoint-api-error\\ServidorTCP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",

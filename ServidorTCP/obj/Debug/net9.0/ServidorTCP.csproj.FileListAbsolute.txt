@@ -1,0 +1,15 @@
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\bin\Debug\net9.0\ServidorTCP.exe
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\bin\Debug\net9.0\ServidorTCP.deps.json
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\bin\Debug\net9.0\ServidorTCP.runtimeconfig.json
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\bin\Debug\net9.0\ServidorTCP.dll
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\bin\Debug\net9.0\ServidorTCP.pdb
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\ServidorTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\ServidorTCP.AssemblyInfoInputs.cache
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\ServidorTCP.AssemblyInfo.cs
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\ServidorTCP.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\ServidorTCP.sourcelink.json
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\ServidorTCP.dll
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\refint\ServidorTCP.dll
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\ServidorTCP.pdb
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\ServidorTCP.genruntimeconfig.cache
+C:\Users\Gustavo Santana\Desktop\teste-endpoint\endpoint-api-error\ServidorTCP\obj\Debug\net9.0\ref\ServidorTCP.dll

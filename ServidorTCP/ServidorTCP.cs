@@ -5,7 +5,7 @@ using System.Text;
 
 class Program
 {
-    static void Main(string[] args)
+    static void ServerTest(string[] args)
     {
         // Defina a porta em que o servidor estará ouvindo conexões
         int porta = 8080;
